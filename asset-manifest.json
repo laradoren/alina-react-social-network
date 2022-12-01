@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alina-react-social-network/static/css/main.b939172c.css",
+    "main.js": "/alina-react-social-network/static/js/main.8f0ddfc5.js",
+    "index.html": "/alina-react-social-network/index.html",
+    "main.b939172c.css.map": "/alina-react-social-network/static/css/main.b939172c.css.map",
+    "main.8f0ddfc5.js.map": "/alina-react-social-network/static/js/main.8f0ddfc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b939172c.css",
+    "static/js/main.8f0ddfc5.js"
+  ]
+}
